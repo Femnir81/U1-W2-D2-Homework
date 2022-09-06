@@ -200,27 +200,27 @@ footer a {
     color: fuchsia;
 }
 
-.social {
+.social i {
     position: fixed;
     right: -0.7rem;
     top: 25rem;
     font-size: 4.5rem;
     color: #3f6bca;
 }
-.calendar {
+.calendar i {
     position: fixed;
     right: -0.7rem;
     top: 32rem;
     font-size: 4.5rem;
     color: #3f6bca;
 }
-.home-page {
+.top i {
     position: fixed;
     right: -0.7rem;
     top: 42rem;
     font-size: 4.5rem;
-    color: #c77ea2;
+    color: hotpink;
 }
-.social i, .calendar i, .home-page i {
+.social i, .calendar i, .top i {
     background-color: white;
 }
